@@ -1,9 +1,3 @@
-Perfect - I checked your repo `ningamma7/FakeNewsDetection` - it's live and empty README right now. This is the final README made *exactly for your uploaded files*.
-
-*Just copy-paste this directly in GitHub:*
-
-Go to your repo > *Add file* > *Create new file* > Name: `README.md` > Paste this:
-
 ---
 # 📰 Fake News Detection -
 
