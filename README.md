@@ -1,4 +1,4 @@
----
+
 # 📰 Fake News Detection -
 
 > Final Year Project - End-to-end fake news detection with AI explainability, expert review, and verified articles.
@@ -88,5 +88,5 @@ Team Members:
 *Ningamma Mariyajjanavara*
 
 
----
+
 
