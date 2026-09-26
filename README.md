@@ -90,6 +90,3 @@ Team Members:
 
 ---
 
-After you paste, click **Commit changes** > **Commit directly to main**.
-
-Send me screenshot once done - I will check!
