@@ -1,0 +1,9 @@
+# Colab notebook runtime already provides PyTorch in most configurations.
+# Install this file in the remote Colab runtime when needed.
+transformers==4.46.3
+scikit-learn==1.8.0
+pandas==2.2.3
+numpy==2.2.1
+captum==0.7.0
+joblib==1.4.2
+requests==2.32.3

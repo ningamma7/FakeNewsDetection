@@ -1,0 +1,19 @@
+.venv/
+venv/
+node_modules/
+dist/
+.env
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.DS_Store
+# Keep raw data and model weights out of source control unless you have permission
+/data/raw/*
+/data/processed/*
+/backend/models/*
+/outputs/*
+!/data/raw/.gitkeep
+!/data/processed/.gitkeep
+!/backend/models/.gitkeep
+!/outputs/research/.gitkeep
