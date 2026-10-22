@@ -28,4 +28,4 @@ The model's output is an automated prediction, not definitive proof that a news 
 
 ## Project Status
 
-The current implementation focuses on the TF-IDF and Logistic Regression baseline with fact-checking integration. Features should be described as implemented only after they have been tested in the running application.
+The current implementation focuses on the TF-IDF and Logistic Regression baseline with fact-checking integration. 
